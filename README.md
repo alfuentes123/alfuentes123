@@ -8,11 +8,6 @@
   <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V6NWE1cDhna2ViMzJydDYzdTdicWZ2cXV3cDJtbHQyeXplYWt3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIAXKEDP8R0IBSAXUk/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alfuentes123/alfuentes123/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
